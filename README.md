@@ -1,3 +1,7 @@
+# Router Single Page Application (SPA)
+
+## Vanilla Javascript router creation workshop
+
 **Load the route**
 	Identify where we are on the site. (Initial load of the route).
 		
