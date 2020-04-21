@@ -2,6 +2,8 @@
 
 ## Vanilla Javascript router creation workshop
 
+## Steps 
+
 **Load the route**
 	Identify where we are on the site. (Initial load of the route).
 		
